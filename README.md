@@ -73,4 +73,10 @@ Now, lets dive into the com.daviddev.reungbox folder which has the main code for
 
 ## Demo Screen
 
-raw.githubusercontent.com/David-GIC/video_demo/master/Image.jpeg
+![Alt text](https://raw.githubusercontent.com/David-GIC/video_demo/master/Image.jpeg)
+![Alt text](https://raw.githubusercontent.com/David-GIC/video_demo/master/Image (1).jpeg)
+![Alt text](https://raw.githubusercontent.com/David-GIC/video_demo/master/Image (2).jpeg)
+![Alt text](https://raw.githubusercontent.com/David-GIC/video_demo/master/Image (3).jpeg)
+![Alt text](https://raw.githubusercontent.com/David-GIC/video_demo/master/Image (4).jpeg)
+![Alt text](https://raw.githubusercontent.com/David-GIC/video_demo/master/Image (5).jpeg)
+![Alt text](https://raw.githubusercontent.com/David-GIC/video_demo/master/Image (6).jpeg)
