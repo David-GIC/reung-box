@@ -14,10 +14,10 @@ git@github.com:David-GIC/reung-box.git
 
 **Step 2:**
 
-Go to project root and sync gradle, after run it with Debug mode
+Go to project root and sync gradle, after that run it with Debug mode or build release apk
 
 ```
-./gradlew assembleRelease to build release apk 
+./gradlew assembleRelease
 ```
 
 ### Clean Architecture Structure + MVVM pattern
@@ -62,7 +62,7 @@ utils/
 |- ErrorStatus
 ```
 
-Now, lets dive into the lib folder which has the main code for the application.
+Now, lets dive into the com.daviddev.reungbox folder which has the main code for the application.
 
 ```
 1. data - This directory contains client for Api Instance, local for local data storage and remote for api call.
