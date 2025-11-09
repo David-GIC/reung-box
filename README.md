@@ -1,4 +1,4 @@
-# Wing Chat Mobile
+# Reung Box - Movie App
 
 The goal of Reung Box is create a sample movie app with Jetpack Compose.
 
