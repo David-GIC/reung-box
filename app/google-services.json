@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "86264086409",
+    "project_id": "blog-post-f7865",
+    "storage_bucket": "blog-post-f7865.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86264086409:android:666934779d08bfc28e2b58",
+        "android_client_info": {
+          "package_name": "com.daviddev.reungbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC2JFjeauuZBrOn1m3RMOc29yA8fpfbEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86264086409:android:b0a4e2800378e07d8e2b58",
+        "android_client_info": {
+          "package_name": "com.example.my_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC2JFjeauuZBrOn1m3RMOc29yA8fpfbEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86264086409:android:4e01cfa934b1750d8e2b58",
+        "android_client_info": {
+          "package_name": "daviddev.com.blog_post"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC2JFjeauuZBrOn1m3RMOc29yA8fpfbEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

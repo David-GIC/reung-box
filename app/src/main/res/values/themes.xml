@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- res/values/themes.xml -->
+    <style name="Theme.ReungBox" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="android:statusBarColor">@android:color/white</item>
+        <!-- Optional: make status bar icons dark -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
