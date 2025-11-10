@@ -52,7 +52,51 @@ domain/
 |- repository/
 ui/
 |- components/
+|   - CustomCircleButton.kt
+|   - CustomElevatedButton.kt
+|   - CustomError.kt
+|   - CustomOutlineButton.kt
+|   - CustomSpacer.kt
+|   - CustomTextField.kt
+|   - ShimmerAnimation.kt
 |- screens/
+|   - account/
+|     - AccountScreen.kt
+|   - auth/
+|     - AuthViewModel.kt
+|     - LoginScreen.kt
+|     - SignUpScreen.kt
+|   - download/
+|     - DownloadScreen.kt
+|   - home/
+|     - components/
+|         - MovieRow.kt
+|         - NetworkImageSlider.kt
+|         - SelectableChipRow.kt
+|         - ShimmerLoading.kt
+|     - HomeScreen.kt
+|     - HomeUiState.kt
+|     - HomeViewModel.kt
+|   - movie_detail/
+|     - components/
+|         - MovieDetailCard.kt
+|         - MovieDetaiTabView.kt
+|         - ShimmerLoading.kt
+|     - MovieDetailScreen.kt
+|     - MovieDetailUiState.kt
+|     - MovieDetailViewModel.kt
+|   - root/
+|     - components/
+|         - CustomBottomBar.kt
+|     - RootBottomNavBarScreen.kt
+|   - saved/
+|     - SavedScreen.kt
+|   - search/
+|     - SearchScreen.kt
+|   - splash/
+|     - SplashScreen.kt
+|   - welcome/
+|     - WecomeScreen.kt
 |- theme/
 utils/
 |- CommonUtils
